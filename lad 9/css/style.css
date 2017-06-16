@@ -1,0 +1,302 @@
+*{
+	padding: 0px;
+	font-size: 12px;
+	
+	font-family: 宋体;
+	color：#522a06;
+}
+
+img{
+	border:0px;
+}
+
+a:link{
+    text-decoration: none;
+    color:#522a06;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+li{
+   list-style: none;
+}
+
+.header{
+	height: 164px;
+	width: 100%;
+	background-image: url(../images/bg.gif);
+	background-position: center;
+}
+
+.logo{
+	margin-top: 25px;
+	margin-left: 38px;
+	float: left;
+}
+.nav{
+	background: url(../images/nav.jpg);
+	width: 100%;
+	height: 40px;
+	margin-top: -11px;
+}
+
+.ul1{
+   width: 820px;
+   margin-left: 60px;
+
+}
+
+
+.ul1 li{
+	float: left;
+	font-weight: bolder;
+	color: #fff;
+	width:70px;
+
+}
+
+#one{
+	width: 45px;
+	color:#f9f603;
+
+
+}
+
+#eight{
+	width: 105px;
+}
+
+
+.ul1 li a{
+	color:#FFF;
+    line-height:40px;
+	font-weight:bold;
+	text-align:center;
+}
+.ul1 li a:hover{
+	color: #f9f603;
+	text-decoration-color: none;
+}
+
+.search{
+	padding:10px 0;
+	margin-right: -100px;
+}
+.t{
+	width: 140px;
+	height: 19px;
+	background-color: #f8f5ee;
+	float: left;
+	line-height:40px;
+	border:1px solid #FFF;
+	line-height:40px;
+	text-align: center;
+	margin-left: 150px;
+
+}
+.b{
+	width: 44px;
+	height: 21px;
+	background-color: #000;
+	float: left;
+	line-height:40px;
+	border:1px solid #f8f5ee;
+	line-height:10px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+
+
+
+#content{
+    background:url(../images/bodybg.gif);
+	width: 100%;
+
+	background-repeat:repeat;
+	margin-bottom:10px;
+	height: 800px;
+
+
+
+}
+.news-pic{
+
+	background:url(../images/news_bg.png);
+	background-repeat:no-repeat;
+	width:324px;
+	height:243px;
+	float:left;
+	margin-top:15px;
+	margin-left: 120px;
+}
+
+.la{
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.qujing{
+	position: relative;
+	top: 20px;
+	left: 75px;
+	height: 13px; 
+	
+	bottom: 0; 
+	right: 0; 
+}
+.tu1{
+	position: relative;;
+	top: 10px;
+	left: 10px;
+	float: left;
+}
+.tu2{
+	position: relative;
+	left: 10px;
+	top: 5px;
+}
+
+.ul2 li{
+	line-height: 30px;
+    top: 3px;
+	position: relative;
+	left: 20px;
+	list-style-position: outside;
+	width: 700px;
+	float: left;
+
+}
+.i{
+	position: relative;
+	right: 3px;
+}
+
+.tu3{
+	float: left;
+	position: relative;
+	bottom: 240px;
+	right: 70px;
+
+
+}
+
+#news-announce{
+	float:right; 
+
+}
+
+.ul3{
+	float: left;
+	background-image: url(../images/board_bg.png);
+	position: relative;
+	bottom: 230px;
+	right: 150px;
+	width: 278px;
+	height: 205px;
+}
+.ul3 li{
+	line-height: 30px;
+}
+
+.tu4{
+	float: left;
+	position: relative;
+	right: 340px;
+	top: 5px;
+}
+.tu5{
+	float: left;
+	position: relative;
+
+}
+.ul4{
+	float: left;
+	position: relative;
+	left: 120px;
+}
+.ul4 li{
+	line-height:25px;
+}
+
+.tu6{
+	position: relative;
+	left: 400px;
+	bottom: 30px;
+}
+.tu7{
+	position: relative;
+	left: 450px;
+	bottom: 130px;
+}
+.ul5{
+	position: relative;
+	left: 120px;
+	bottom: 80px;
+	top: -90px;
+    float: left;
+    margin-left: 30px;
+    line-height: 25px;
+}
+.div2{
+	background-image: url(../images/show_bg.png);
+	width: 280px;
+	height: 360px;
+	float: left;
+	position: relative;
+	left: 150px;
+	bottom: 120px;
+}
+.tu6{
+	
+	position: relative;
+	left:230px;
+	bottom: 130px;
+}
+.tu7{
+	position: relative;
+   left: 30px;
+   top: 15px;
+}
+
+.div3{
+	line-height: 30px;
+	position: relative;
+	top: 6px;
+}
+
+.div5{
+	background-image: url(../images/fengcai.png);
+	width: 700px;
+	margin-left: 90px;
+	height: 210px;
+	margin-top: 40px;
+}
+.tu9{
+	position: relative;
+	bottom: 270px;
+	left: 23px;
+}
+
+.st{
+	float: left;
+
+}
+
+.ul8{
+	width: 100%;
+	margin-left: 350px;
+	font-weight: bolder;
+	position: relative;
+	bottom: 100px;
+
+}
+
+.zuihou{
+	position: relative;
+	bottom:75px;
+	left: 400px;
+}
