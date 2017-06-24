@@ -1,0 +1,192 @@
+a:link{
+    text-decoration: none;
+    
+}
+
+.div1{
+	background-image: url(../images/1.jpg);
+	width: 100%;
+	height: 200px;
+
+}
+
+.tu2{
+	width: 100px;
+	height: 100px;
+	
+	float: left;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	
+
+
+}
+.div2{
+	background-color: yellow;
+	border-width: : 2px;
+	border-color:;
+	height: 110px;
+	width: 110px;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+
+.div3{
+	float: left;
+	font-size: 40px;
+	font-family: '方正舒体';
+    color:#00bfff;
+    margin-left:160px; 
+    margin-top: -50px;
+}
+.div4{
+	float: left;
+	margin-left: 170px;
+	margin-top: 0px;
+	font-family: Lucida Calligraphy;
+	color: #1e90ff;
+}
+
+.a{
+	list-style: none;
+	float: left;
+	width:65px;
+	line-height: 35px;
+	color: #fff;
+
+}
+
+.b{
+	list-style: none;
+	float: left;
+	width:80px;
+    line-height: 35px;
+}
+.c{
+	width: 123px;
+	float: left;
+	list-style:none;
+	margin-left:150px;
+	line-height: 35px;
+}
+
+.ul1{
+	height: 40px;
+	background-color: #ffd700;
+	margin-top: -2px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 20px;
+	font-weight: bolder;
+
+
+}
+
+.ul1 li a{
+	
+	color:#1e90ff;
+}
+
+.ul1 li a:hover{
+	color: #ff7e50;
+	color:#da70d6;
+}
+.d{
+	list-style: none;
+	text-decoration: underline;
+	line-height: 35px;
+}
+
+.zong{
+	background-image: url(../images/666.jpg);
+	width: 80%;
+	height: 1300px;
+	margin-left:120px;
+	margin-top: -15px;
+	}
+.zong2{
+	width: 700px;
+	float: left;
+}
+.xin{
+	margin-left: 40px;
+	position: relative;
+	top: 23px;
+	width: 20px;
+	height: 20px;
+}
+p {
+	font-size: 17px;
+	font-family: '楷体'
+}
+
+.zong1{
+	width: 252px;
+	float: left;
+	position: relative;
+
+}
+
+.ula{
+	float: left;
+	list-style: none;
+	width: 252px;
+	font-size: 14px;
+	margin-top: -20px;
+}
+.ula{
+	line-height: 28px;
+}
+
+.wen1{
+	width: 202px;
+	margin-left: 40px;
+}
+
+.zi1{
+	position: relative;
+	left: 60px;
+}
+
+.wen2{
+	width: 202px;
+	position: relative;
+	left: -10px;
+}
+
+.zi2{
+	position: relative;
+	left: 44px;
+}
+
+.wen3{
+	width: 202px;
+	margin-top: 20px;
+	margin-left: 46px;
+}
+
+.zi3{
+	position: relative;
+	left: 30px;
+}
+
+/*.zong3{
+	float: left;
+	position: relative;
+	left:180px;
+	top: -220px;
+}*/
+
+.first{
+	float: left;
+}
+.second{
+	position: relative;
+	top: -2px;
+	left: 120px;
+	background-color: #00bbff;
+	height: 50px;
+	width: 80%;
+} 
